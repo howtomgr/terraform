@@ -1,0 +1,75 @@
+{
+  "category": "infrastructure-as-code",
+  "created_date": "2025-09-15T22:48:59.301803",
+  "default_ports": [
+    0,
+    4,
+    5,
+    443,
+    2379,
+    5432,
+    8080,
+    8500,
+    8800,
+    8801
+  ],
+  "dependencies": [
+    "Cloud",
+    "provider",
+    "CLI",
+    "tools",
+    "(aws-cli"
+  ],
+  "description": "Terraform installation and configuration guide",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/infrastructure-as-code/terraform",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/infrastructure-as-code/terraform",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.301829",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "terraform",
+  "repository_url": "https://github.com/howtomgr/terraform",
+  "spec_version": "2.0",
+  "subcategory": "infrastructure-as-code",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "infrastructure-as-code",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Terraform Installation and Management Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/infrastructure-as-code/terraform"
+}
